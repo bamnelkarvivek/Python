@@ -1,5 +1,6 @@
 import numpy as np
 import cv2
+# This Code would take input from your webcam and then flip the feed and disply it back.
 
 cap = cv2.VideoCapture(0)
 
